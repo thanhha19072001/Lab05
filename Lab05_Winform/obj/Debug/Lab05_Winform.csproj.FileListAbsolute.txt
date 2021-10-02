@@ -1,0 +1,30 @@
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\bin\Debug\Lab05_Winform.exe.config
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\bin\Debug\Lab05_Winform.exe
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\bin\Debug\Lab05_Winform.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\bin\Debug\Newtonsoft.Json.dll
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\bin\Debug\Newtonsoft.Json.xml
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.frmNhapThongTinSV.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.frmThemMonHoc.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.frmTimKiem.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.Properties.Resources.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.GenerateResource.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.CopyComplete
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.exe
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.pdb
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\bin\Debug\Lab05_Winform.exe.config
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\bin\Debug\Lab05_Winform.exe
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\bin\Debug\Lab05_Winform.pdb
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\bin\Debug\Newtonsoft.Json.dll
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\bin\Debug\Newtonsoft.Json.xml
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.AssemblyReference.cache
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.frmNhapThongTinSV.resources
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.frmThemMonHoc.resources
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.frmTimKiem.resources
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.Properties.Resources.resources
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.GenerateResource.cache
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.CoreCompileInputs.cache
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.CopyComplete
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.exe
+E:\LTCSDL\BT_1910123_TranThanhHa\1910123_TranThanhHa_Lab05\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.pdb
